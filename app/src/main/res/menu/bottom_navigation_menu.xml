@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home_id"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/bottom_directory_id"
+        android:icon="@drawable/directory_24"
+        android:title="डायरेक्टरी" />
+
+    <item
+        android:id="@+id/bottom_business_directory_id"
+        android:icon="@drawable/business_24"
+        android:title="बिजनेस" />
+
+    <item
+        android:id="@+id/bottom_matrimonial_id"
+        android:icon="@drawable/metrimonial_24"
+        android:title="मेट्रोमोनियल" />
+
+
+</menu>
